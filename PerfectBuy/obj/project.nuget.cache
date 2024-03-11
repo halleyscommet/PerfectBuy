@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jFTOoOX/l86uzu0iqx8qH3AMo3XLBL/pdvjEpnAZDgxliBLTWs0hHY9Yzovwy+Vxtl5M7SqlVILJKI9lp2PA/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Noah Harper\\RiderProjects\\PerfectBuy\\PerfectBuy\\PerfectBuy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Noah Harper\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
